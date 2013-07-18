@@ -1,6 +1,8 @@
 colah's jumbled thoughts on romance
 ====================================
 
+**Note: These are personal thoughts on a very personal and sensitive issue. Please look at [the readme](https://github.com/colah/Semi-Public-Journal/blob/master/README.md).**
+
 Optimal Dating Strategies
 ---------------------------
 
