@@ -10,7 +10,9 @@ A few mathematicians have considered optimal strategies for dating. Extremely si
 
 The general way the problem is discussed is as the [secretary problem](http://en.wikipedia.org/wiki/Secretary_problem). In this problem, one is trying to get the best secretary out of a group of applicants. One can try the secretaries in sequence. Each candidate is objectively better or worse relative to others. Each time, one must either select that applicant, or move on to the next with no chance to return. Applicants always accept the job, and one is solely concerned with getting the *best* candidate. The optimal strategy is to reject the first n/e candidates (~36%) and accept the next best one.
 
-It has been observed that one severe failing of this is that in dating, the other party may not accept you. A more realistic model is to [think of it as a dual secretary problem](http://mat.tepper.cmu.edu/blog/?p=1392), where both parties are mutually performing the same optimization. This problem is massively more complicated and eludes optimal strategies.
+The simplest flaw, that of only being concerned with getting the best candidate, has been corrected in more sophisticated formulations. Bearden, in [Skip the Square Root of n: A New Secretary Problem](http://www.sie.arizona.edu/MURI/cd/content/Bearden%20Skip%20the%20Sq%20Rt%20of%20n%20Thrusts%20A%20and%20C.pdf) considers maxamizing expected value when candidates are random variables from the uniform distribution \[0,1\]. The optimal strategy (as you might infer from the title) turns out to be skipping sqrt(n).
+
+But there are much more severe problems. It has been observed that one severe failing of the secratary problem as a model for dating is that in dating, the other party may not accept you. (That said, on certain restricted subsets of people, things do become more like standard the secratary problem, as we will see later.) A more realistic model is to [think of it as a dual secretary problem](http://mat.tepper.cmu.edu/blog/?p=1392), where both parties are mutually performing the same optimization. This problem is massively more complicated and eludes optimal strategies.
 
 (My intuition for a good strategy, if one isn't only trying to get the best candidate, is as follows. For simplicity, we consider the homosexual case, so that there's only one candidate pool. Then one should use the sampling phase not only to determine what a good candidate looks like, but how could a candidate you are. Then you target everyone more than a certain amount better than you -- you exploit the intrinsic error margin in finding good candidate -- and gradually drift towards candidates that are worse than you as time goes on. For the heterosexual case, you need to do something more complicated to get a good sense of where you are in the applicant pool.)
 
@@ -40,9 +42,17 @@ Other Romance Game Theory
 
 * [The Multi-Armed Bandit problem](http://en.wikipedia.org/wiki/Multi-armed_bandit): The mult-armed bandits are slot machines, with different pay outs which you can only learn by trying them. There's a tradeoff between exploring the possibilities and exploiting the best option you find. The problem generalizes to lots of scenarios where you are distributing resources between possibilities. For example, if you have multiple romantic candidates of unknown quality...
 
-* [The Stable Marriage Problem](http://en.wikipedia.org/wiki/Stable_marriage_problem)
+* [The Stable Marriage Problem](http://en.wikipedia.org/wiki/Stable_marriage_problem): Suppose we have N men and N women. Every man/woman has an ordering of the other gender by which partner they prefer to which. A solution (a one-to-one pairing of each man to woman) is "stable" if there is no man-woman pair that mutually prefer each other to their present partner. Does a stable solution exist?
 
-* [Monogamy as a Prisoners Dilemma: Non-Monogamy as a Collective Action Problem](http://www.changesurfer.com/Acad/Monogamy/Mono.html)
+Yes, it does, and a simple algorith can find one. Pick one gender, say men. Have men, in sequence, go to each women and propose to her. If she prefers them to her present partner, she accepts and rejects her present partner (always accepts if no partner), otherwise she rejects him. The rejected partner then goes down their list until they find their match. This algorithm halts in O(N^2) steps with a stable solution.
+
+It appears like it didn't matter which gender asked, just that we only had one gender ask and one gender accept/reject. If you're a little suspicious of that... well you should be! The gender that asks gets, on average, does much much better! Consider the list of preferences to have in position 0 the most prefered partner, 1 the second most, and so on... (So a low number is good.) On average men get their log(N) candidate, but the women get their N/log(N) candidate. However, when there is a gender ratio imbalence, who asks ceases to matter and the gender with fewer candidates does much better. Even just a difference of 1 reverses N/log(N) and log(N) expectations. (Read more in [Ashlagi et al's paper: Unbalanced random matching markets](http://web.mit.edu/iashlagi/www/papers/UnbalancedMatchingAKL.pdf) and [this blog post](http://gilkalai.wordpress.com/2013/04/19/itai-ashlagi-yashodhan-kanoria-and-jacob-leshno-what-a-difference-an-additional-man-makes/).)
+
+(In fact, there's something even deeper here: Knuth et al found the solution space to form a lattice with male-otpimized and female-optimized cases as the top and bottom.)
+
+A large number of variations on the stable marriage problem have been considered, including ones analyzing incomplete lists, tied preferences, and what amounts to homosexual and polyamorous cases (though these are discussed as the roomate problem, etc). Iwama and Miyazaki have a nice review paper: [A Survey of the Stable Marriage Problem and Its Variants](http://140.123.102.14:8080/reportSys/file/paper/scfu/scfu_21_paper.pdf) on these.
+
+* [Monogamy as a Prisoners Dilemma: Non-Monogamy as a Collective Action Problem](http://www.changesurfer.com/Acad/Monogamy/Mono.html) -- note that I've only skimmed this so far and marked it down as something to look at.
 
 
 Anti-Patterns
@@ -71,7 +81,11 @@ Rambles
 * A lot of people I deeply respect are polyamorous.
   * Polyamory is illegal in Canada: CCC s. 293 is title polygamy, but more general; see also Reference re: Criminal Code, s. 293, 2010 BCSC 1308. (I'm deeply skeptical that this would survive serious Charter scrutiny and think this is a Human rights violation. Unfortunately, the case law seems to have solely developed in the context of Bountiful, British Columbia.) In any event, *obviously* all these polyamorous people I deeply respect do not live in Canada. And even were I persuaded that polyamory is a good idea, I obviously wouldn't act on that while I remain in Canada.
   * Polyamory seems to have a bimodal distribution of relationship quality, with most relationships I'm aware of either being really admirable or horrifying. (This may just generally be true of relationships that are not socially normative. Standard deviation of relationship quality increases...)
-  * There are moderately compelling moral arguments for polyamory.
+  * There are moderately compelling arguments for polyamory.
+  * I'm concerned these technical supperiority arguments my be red herrings:
+    I could make an argument that heterosexual relationships are better than homosexual ones. They can reproduce. Their bodies are more naturally suited for mutual pleasuring. And so on. At this point, people are kind of memetically vaccinated against arguments for this position, but I bet if they weren't I could make this quite persuasive.
+    And, even if it were true in some technical sense, it would be a toxic argument. It would just delegitmize gay people's feelings. It might even make some try to be something that will make them less happy because that's "better". And for all the technical arguments we can make for one thing better or worse, how it effects those involved is all that matters. The argument would be harmful (except maybe in some very specific context).
+    I feel like this is kind of the same.
   * In polyamory, one can have different partners that optimize for different types of "good" things in a romantic partner. For example, one partner might make one happy, while another might cause one to develop as a person.
   * It seems reasonable to think that whether polyamory is a good idea or not varies greatly from person to person.
   * I am personally uncomfortable with the idea, and pretty certain that it isn't for me, despite thinking they can be ethical.
