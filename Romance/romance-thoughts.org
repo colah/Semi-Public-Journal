@@ -41,13 +41,13 @@ The mult-armed bandits are slot machines, with different pay outs which you can 
 
 Suppose we have $N$ men and $N$ women. Every man/woman has an ordering of the other gender by which partner they prefer to which. A solution (a one-to-one pairing of each man to woman) is "stable" if there is no man-woman pair that mutually prefer each other to their present partner. Does a stable solution exist?
 
-      Yes, it does, and a simple algorithm can find one. Pick one gender, say men. Have men, in sequence, go to each women and propose to her. If she prefers them to her present partner, she accepts and rejects her present partner (always accepts if no partner), otherwise she rejects him. The rejected partner then goes down their list until they find their match. This algorithm halts in $O(N^2)$ steps with a stable solution.
+Yes, it does, and a simple algorithm can find one. Pick one gender, say men. Have men, in sequence, go to each women and propose to her. If she prefers them to her present partner, she accepts and rejects her present partner (always accepts if no partner), otherwise she rejects him. The rejected partner then goes down their list until they find their match. This algorithm halts in $O(N^2)$ steps with a stable solution.
 
-      It appears like it didn't matter which gender asked, just that we only had one gender ask and one gender accept/reject. If you're a little suspicious of that... well you should be! The gender that asks gets, on average, does much much better! Consider the list of preferences to have in position 0 the most preferred partner, 1 the second most, and so on... (So a low number is good.) On average men get their $\log(N)$ candidate, but the women get their $N/\log(N)$ candidate. However, when there is a gender ratio imbalance, who asks ceases to matter and the gender with fewer candidates does much better. Even just a difference of 1 reverses $N/\log(N)$ and $\log(N)$ expectations. (Read more in [[http://web.mit.edu/iashlagi/www/papers/UnbalancedMatchingAKL.pdf][Ashlagi et al's paper: Unbalanced random matching markets]] and [[http://gilkalai.wordpress.com/2013/04/19/itai-ashlagi-yashodhan-kanoria-and-jacob-leshno-what-a-difference-an-additional-man-makes/][this blog post]].) In considering this, it is worth noting that both parties benefit enormously from N increasing, since important thing isn't the position in the list, but the ratio you are through the list (since this corresponds to the percentile of the sample the match is in), which both ($1/\log(N)$ and $\log(N)/N$) fall drastically as $N$ increases.
+It appears like it didn't matter which gender asked, just that we only had one gender ask and one gender accept/reject. If you're a little suspicious of that... well you should be! The gender that asks gets, on average, does much much better! Consider the list of preferences to have in position 0 the most preferred partner, 1 the second most, and so on... (So a low number is good.) On average men get their $\log(N)$ candidate, but the women get their $N/\log(N)$ candidate. However, when there is a gender ratio imbalance, who asks ceases to matter and the gender with fewer candidates does much better. Even just a difference of 1 reverses $N/\log(N)$ and $\log(N)$ expectations. (Read more in [[http://web.mit.edu/iashlagi/www/papers/UnbalancedMatchingAKL.pdf][Ashlagi et al's paper: Unbalanced random matching markets]] and [[http://gilkalai.wordpress.com/2013/04/19/itai-ashlagi-yashodhan-kanoria-and-jacob-leshno-what-a-difference-an-additional-man-makes/][this blog post]].) In considering this, it is worth noting that both parties benefit enormously from N increasing, since important thing isn't the position in the list, but the ratio you are through the list (since this corresponds to the percentile of the sample the match is in), which both ($1/\log(N)$ and $\log(N)/N$) fall drastically as $N$ increases.
 
-      (In fact, there's something even deeper here: Knuth et al found the solution space to form a lattice with male-optimized and female-optimized cases as the top and bottom.)
+(In fact, there's something even deeper here: Knuth et al found the solution space to form a lattice with male-optimized and female-optimized cases as the top and bottom.)
 
-      A large number of variations on the stable marriage problem have been considered, including ones analyzing incomplete lists, tied preferences, and what amounts to homosexual and polyamorous cases (though these are discussed as the roommate problem, etc). Iwama and Miyazaki have a nice review paper: [[http://140.123.102.14:8080/reportSys/file/paper/scfu/scfu_21_paper.pdf][A Survey of the Stable Marriage Problem and Its Variants]] on these.
+A large number of variations on the stable marriage problem have been considered, including ones analyzing incomplete lists, tied preferences, and what amounts to homosexual and polyamorous cases (though these are discussed as the roommate problem, etc). Iwama and Miyazaki have a nice review paper: [[http://140.123.102.14:8080/reportSys/file/paper/scfu/scfu_21_paper.pdf][A Survey of the Stable Marriage Problem and Its Variants]] on these.
 
 ** Other Game Theory in Romance
 
@@ -61,8 +61,8 @@ People do all sorts of really troubling things in relationships. If we note them
 + Lots of partners are subtly mean and coercive to each other.
 
 + A lot of relationships don't seem to be between equals and have power dynamics. (I don't really understand being attracted to someone you don't consider your equal?)
-++ On the other hand, some people enjoy that -- the extreme example being consensual BDSM relationships -- and I'm not trying to be judgmental.
-++ I think I'm talking about something subtler...
+  + On the other hand, some people enjoy that -- the extreme example being consensual BDSM relationships -- and I'm not trying to be judgmental.
+  + I think I'm talking about something subtler...
 
 + Some studies have found rather negative correlations age-disparity and relationship outcomes for the younger party -- the one I'm thinking of was either more than 5 or 7 years. "You aren't a lottery ticket" and all that applies, but...
 
@@ -79,19 +79,19 @@ People do all sorts of really troubling things in relationships. If we note them
 + Most people never meet the people they could form the best relationship with. The larger the candidate pool, the greater the variation between the best match you are likely to meet and the best match out there. So, the present situation on Earth is extremely tragic. Computer association of partners is a promising solution. See Human Pairing Problem essay.
 
 + Unpleasant men seem to be disproportionately successful in dating.
-++ Purely anecdotal, may suffer from a number of biases, notably confirmation bias.
+  + Purely anecdotal, may suffer from a number of biases, notably confirmation bias.
 
 + A lot of people I deeply respect are polyamorous.
 
-++ Polyamory is illegal in Canada: CCC s. 293 is title polygamy, but more general; see also Reference re: Criminal Code, s. 293, 2010 BCSC 1308. (I'm deeply skeptical that this would survive serious Charter scrutiny and think this is a Human rights violation. Unfortunately, the case law seems to have solely developed in the context of Bountiful, British Columbia.) In any event, *obviously* all these polyamorous people I deeply respect do not live in Canada. And even were I persuaded that polyamory is a good idea, I obviously wouldn't act on that while I remain in Canada.
+  + Polyamory is illegal in Canada: CCC s. 293 is title polygamy, but more general; see also Reference re: Criminal Code, s. 293, 2010 BCSC 1308. (I'm deeply skeptical that this would survive serious Charter scrutiny and think this is a Human rights violation. Unfortunately, the case law seems to have solely developed in the context of Bountiful, British Columbia.) In any event, *obviously* all these polyamorous people I deeply respect do not live in Canada. And even were I persuaded that polyamory is a good idea, I obviously wouldn't act on that while I remain in Canada.
 
-++ Polyamory seems to have a bimodal distribution of relationship quality, with most relationships I'm aware of either being really admirable or horrifying. (This may just generally be true of relationships that are not socially normative. Standard deviation of relationship quality increases...)
+  + Polyamory seems to have a bimodal distribution of relationship quality, with most relationships I'm aware of either being really admirable or horrifying. (This may just generally be true of relationships that are not socially normative. Standard deviation of relationship quality increases...)
 
-++ In polyamory, one can have different partners that optimize for different types of "good" things in a romantic partner. For example, one partner might make one happy, while another might cause one to develop as a person.
+  + In polyamory, one can have different partners that optimize for different types of "good" things in a romantic partner. For example, one partner might make one happy, while another might cause one to develop as a person.
 
-++ There are moderately compelling arguments for polyamory.
+  + There are moderately compelling arguments for polyamory.
 
-++ I'm concerned these technical supperiority arguments my be red herrings:
+  + I'm concerned these technical supperiority arguments my be red herrings:
 
     I could make an argument that heterosexual relationships are better than homosexual ones. They can reproduce. Their bodies are more naturally suited for mutual pleasuring. And so on. At this point, people are kind of memetically vaccinated against arguments for this position, but I bet if they weren't I could make this quite persuasive.
 
@@ -100,26 +100,26 @@ People do all sorts of really troubling things in relationships. If we note them
     I feel like this is kind of the same.
 
 
-++ It seems reasonable to think that whether polyamory is a good idea or not varies greatly from person to person.
+  + It seems reasonable to think that whether polyamory is a good idea or not varies greatly from person to person.
 
-++ I think that, once you are open-minded to the idea of polyamory, your intuition for whether you want to be in such a type of relationship is relatively strong evidence as to whether you would actually enjoy being in one and probably more reliable that concious arguments. Romance is tied to lots of really low level things in your brain, and your brains reaction to imagining these circumstances strikes me as quite reliable, where as I am worried about the effectivness of concious arugment of these issues.
-+++ In Khaneman's terminology, perhaps this is an issue better handled by "system 1" reasoning. 
+  + I think that, once you are open-minded to the idea of polyamory, your intuition for whether you want to be in such a type of relationship is relatively strong evidence as to whether you would actually enjoy being in one and probably more reliable that concious arguments. Romance is tied to lots of really low level things in your brain, and your brains reaction to imagining these circumstances strikes me as quite reliable, where as I am worried about the effectivness of concious arugment of these issues.
+    + In Khaneman's terminology, perhaps this is an issue better handled by "system 1" reasoning. 
 
-++ I personally don't find the idea very appealing, and pretty certain that it isn't for me, despite thinking they can be ethical. I am extremely skeptical of people who try to convience me that deep down I want to be poly or such.
+  + I personally don't find the idea very appealing, and pretty certain that it isn't for me, despite thinking they can be ethical. I am extremely skeptical of people who try to convience me that deep down I want to be poly or such.
 
 
 
 + Non socially normative relationships present some interesting difficulties.
 
-++ In average relationships, people have an external set of expectations about how to behave in a relationship. How to treat each other, expected behavior, etc. They may be quite problematic, including sexist, but they're external to the relationship. Obviously, these external expectations don't cover everything, but they give a sturdy framework.
+  + In average relationships, people have an external set of expectations about how to behave in a relationship. How to treat each other, expected behavior, etc. They may be quite problematic, including sexist, but they're external to the relationship. Obviously, these external expectations don't cover everything, but they give a sturdy framework.
 
-++ Once you throw those away, things get much more confusing. Partners often have different expectations.
+  + Once you throw those away, things get much more confusing. Partners often have different expectations.
 
-++ A power dynamic can form where one partner gets to decide all the expectations (and change them).
+  + A power dynamic can form where one partner gets to decide all the expectations (and change them).
 
-++ It seems like having an early conversation about this is a good idea in a relationship. Perhaps even independently writing out what one expects in the relationship.
+  + It seems like having an early conversation about this is a good idea in a relationship. Perhaps even independently writing out what one expects in the relationship.
 
-++ Is having similar sex drives important?
++ Is having similar sex drives important?
 
 * Romance Space & Clusters
 
@@ -142,8 +142,8 @@ But it isn't immediately clear to me that relationships are generally positive t
 ++ Early romantic attraction frequently involves a reduced need for sleep (because of increased dopamine?)...
 
 + In romantic attraction / relationships, partners are often ready to under go radical changes in themselves to make themselves more appealing to the desired partner.
-++ A visible example of this is that people often radically change their physical appearance at the beginning of relationships.
-++ This cuts both for and against romantic relationships. They could both help one change in positive and negative ways, largely depending on (your perception of) your partner.
+  + A visible example of this is that people often radically change their physical appearance at the beginning of relationships.
+  + This cuts both for and against romantic relationships. They could both help one change in positive and negative ways, largely depending on (your perception of) your partner.
 
 + Many friends and people that I respect tell me of how greatly relationships improved their quality of life. Others describe it not having much impact after a few months of feeling amazing. A small number are extremely negative about it. But I don't think any of them are a terribly objective source.
 
@@ -244,7 +244,7 @@ Reading social signals is hard in general, but it's easy to see if someone is ch
 + H- views this as an important skill (one of many) that one develops on low value relationships so that one is ready for a potentially very good relationship.
 + R- in blog describes a bunch of attempts at signaling that I would never have noticed. (How many people have tried to flirt with me and I didn't notice it?)
 + D- thinks one can substantially ignore the other persons signaling if they can't understand it, and focus on sending their own signals.
-++ I supposes this only works when only one party is socially unskilled.
+  + I supposes this only works when only one party is socially unskilled.
 
 ** Things you can do to avoid subtle signals
 If you aren't very socially skilled and bad on picking up on queues, what can you do to avoid subtle signals?
@@ -263,9 +263,9 @@ There's really 2 separate problems:
 
 *** Asides:
 
-H-, D-, E-, & LN- think I'm not at risk of doing this and should worry less.
++ H-, D-, E-, & LN- think I'm not at risk of doing this and should worry less.
 
-Subtle back and forth signaling can really help here.
++ Subtle back and forth signaling can really help here.
 
 
 ** Responses:
@@ -336,13 +336,13 @@ I'm sure many economists would tell me that I should optimize for my interests t
 ** Optimizing for the benefit of your (potential) partner
 
 + Give them as much information about you as possible to make a decision (in a non-creepy, non-ranting way). Possible mechanisms might be a public OkCupid profile, or being really clearly willing to answer (almost) any question.
-++ Counter argument: Providing a lot more information and being honest about flaws may just lead to you being rejected, even when you were the best person in the candidate pool, hurting the person you were honest about. People aren't rational, and things like romantic attraction are not conscious decision.
+  + Counter argument: Providing a lot more information and being honest about flaws may just lead to you being rejected, even when you were the best person in the candidate pool, hurting the person you were honest about. People aren't rational, and things like romantic attraction are not conscious decision.
 
 
 + Introduce them to people you think might be good partners for them.
-++ Side benefit: if they still choose you in the end, having had more good alternative options, that bodes well for your future relationship (which means a lower risk of you being hurt in the long run).
+  + Side benefit: if they still choose you in the end, having had more good alternative options, that bodes well for your future relationship (which means a lower risk of you being hurt in the long run).
 
 + Become a better (potential) partner yourself.
-++ Ideas: Communication skills (non violent communication, active listening?), physical attractiveness (work out, optimize dressing, hair cut, etc), domestic skills (especially for males, since it signals that you won't push domestic work onto your partner), cluster specific (eg. math skills).
-++ Side benefit: Someone is more likely to pick you, your relationship will likely be better. (If you're seeking a long term relationship like me, then that equates to your relationship having a better life expectancy.)
+  + Ideas: Communication skills (non violent communication, active listening?), physical attractiveness (work out, optimize dressing, hair cut, etc), domestic skills (especially for males, since it signals that you won't push domestic work onto your partner), cluster specific (eg. math skills).
+  + Side benefit: Someone is more likely to pick you, your relationship will likely be better. (If you're seeking a long term relationship like me, then that equates to your relationship having a better life expectancy.)
 
