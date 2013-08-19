@@ -138,8 +138,8 @@ But it isn't immediately clear to me that relationships are generally positive t
 + Romantic relationships involve a tremendous risk of being very deeply hurt.
 
 + Romantic relationships have a very deep time and energy investment.
-++ Thinking of time as an inelastic resource is kind of naive, in my experience. So much of my time falls through the cracks, and I recapture it when I have the right motivations.
-++ Early romantic attraction frequently involves a reduced need for sleep (because of increased dopamine?)...
+  + Thinking of time as an inelastic resource is kind of naive, in my experience. So much of my time falls through the cracks, and I recapture it when I have the right motivations.
+  + Early romantic attraction frequently involves a reduced need for sleep (because of increased dopamine?)...
 
 + In romantic attraction / relationships, partners are often ready to under go radical changes in themselves to make themselves more appealing to the desired partner.
   + A visible example of this is that people often radically change their physical appearance at the beginning of relationships.
@@ -163,21 +163,21 @@ But "it's the least bad option" is not a very satisfying answer.
 So, the question is, can there be a positive relationship between romance and productivity. The following is brainstorming:
 
 + Typically, couple's bonding time consists of things like watching movies, lazing about, talking about unimportant issues, etc. But if both parties are more interested in higher concerns, can that lead to them instead spending time learning or working on valuable projects?
-++ Elements of this in D-&J- and E-&J- ??
+  + Elements of this in D-&J- and E-&J- ??
 
 + During romantic attraction, people change themselves to be more attractive to their partner, including changes to physical appearance, beliefs, ideals, etc. If attributes that make you attractive include things like ethics or intellectual curiosity...
 
 + Could romance allow deeper collaboration through intellectual intimacy -- less filtering, more honesty about feelings?
 
 + There's a pretty long tradition of romantic partners as scientific collaborators.
-++ Famous example: Marie Curie & Pierre Curie 
-++ Seems quite wide spread. Asking one friend in Academia, then rattled off a list of a dozen or so pairs with little thought.
-++ A small body of literature has built up exploring this topic. Terms to search for are: dual careers, academic couples, intimate collaborators, intimate romantic partners, etc.
-++ *Knowledge Production, Publication Productivity, and Intimate Academic Partnership* (Greamer, 1999) explores the effects of romantic partners as collaborators on productivity. It's a very small and limited sample in a few ways (eg. older generation). There's high variance in the impact of these relationships on productivity. There's also a striking pattern of partners feeling unable to heavily collaborate because of the expectations of the academic community. Informal feedback and honest criticism on work from partners may be important. One pair of psychologists seem to have a story of very deep and extremely important collaboration where they mutually developed ideas over years of conversation. 
-++ *Love in the lab: Women scientists and engineers married to or partnered with other scientists and engineers* (Blaser) begins with a nice literature review and lots of references. One interesting quote: "Approximately
+  + Famous example: Marie Curie & Pierre Curie 
+  + Seems quite wide spread. Asking one friend in Academia, then rattled off a list of a dozen or so pairs with little thought.
+  + A small body of literature has built up exploring this topic. Terms to search for are: dual careers, academic couples, intimate collaborators, intimate romantic partners, etc.
+  + *Knowledge Production, Publication Productivity, and Intimate Academic Partnership* (Greamer, 1999) explores the effects of romantic partners as collaborators on productivity. It's a very small and limited sample in a few ways (eg. older generation). There's high variance in the impact of these relationships on productivity. There's also a striking pattern of partners feeling unable to heavily collaborate because of the expectations of the academic community. Informal feedback and honest criticism on work from partners may be important. One pair of psychologists seem to have a story of very deep and extremely important collaboration where they mutually developed ideas over years of conversation. 
+  + *Love in the lab: Women scientists and engineers married to or partnered with other scientists and engineers* (Blaser) begins with a nice literature review and lots of references. One interesting quote: "Approximately
 70% of female physicists are married to other scientists and 80% of female mathematicians are married to other mathematicians (Gibbons 1992)." (I haven't been able to read Gibbons yet). 
-++ Seems like early research found negative correlations for male productivity with having an academic partner. It is speculated that this is because of a more egalitarian distribution of house work. It may be better modernly? (Also, I'd personally value that and would do that regarless of partner, so it doesn't matter much.)
-++ (I should review further when not half-asleep)
+  + Seems like early research found negative correlations for male productivity with having an academic partner. It is speculated that this is because of a more egalitarian distribution of house work. It may be better modernly? (Also, I'd personally value that and would do that regarless of partner, so it doesn't matter much.)
+  + (I should review further when not half-asleep)
 
 * Removing One's Self From The Dating Pool
 
