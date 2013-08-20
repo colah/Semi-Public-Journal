@@ -1,10 +1,12 @@
+* Rambling Thoughts On Romance
+
 *Note: These are personal thoughts on a very personal and sensitive issue. Please look at [[https://github.com/colah/Semi-Public-Journal/blob/master/README.md][the readme]].*
 
-* Game Theory of Romance
+** Game Theory of Romance
 
 (I don't think there's much value in my game theory analysis of romance but it makes me feel more comfortable about the topic, as it's math. It's a nice place to dip a toe in the water to start. And it's something kind of productive to do -- I learn neat stats and control theory by reading the relevant papers -- when I'm upset about this stuff.)
 
-** Optimal Dating Strategies (variations of the Secretary Problem)
+*** Optimal Dating Strategies (variations of the Secretary Problem)
 
 A few mathematicians have considered optimal strategies for dating. Extremely simplified models of dating have optimal strategies, but things explode as one introduces even moderately realistic circumstances. Further, I have serious concerns about the utility functions these are optimal strategies under.
 
@@ -36,11 +38,11 @@ The fact that, in reality, the utility of an outcome isn't solely determined by 
 + Even if the quality of a relationship was determined by the two people in it, that may not overshadow different costs of a strategy. It appears that there is a great deal of potential to hurt your partners in this matter if one isn't careful. Additionally, one can severely hurt themselves, and entering a relationship has a significant energy investment.
 
 + Intuitively, I feel like there's something very special about the first relationship. That if I could make it be really awesome and work out, that would be best. That I might be less able to form deep relationships after it. Everyone I respect tells me this is ridiculous. H- proposed as a test that I should try and find an expert who will argue for this position, and if I can't that is strong evidence against it -- I haven't tried yet, but the fact that I don't have a very high confidence in succeeding doesn't bode well for this. I don't really intellectually believe this to be true, but I feel it very strongly emotionally.
-** [[http://en.wikipedia.org/wiki/Multi-armed_bandit][The Multi-Armed Bandit problem]]
+*** [[http://en.wikipedia.org/wiki/Multi-armed_bandit][The Multi-Armed Bandit problem]]
 
 The mult-armed bandits are slot machines, with different pay outs which you can only learn by trying them. There's a tradeoff between exploring the possibilities and exploiting the best option you find. The problem generalizes to lots of scenarios where you are distributing resources between possibilities. For example, if you have multiple romantic candidates of unknown quality...
 
-** [[http://en.wikipedia.org/wiki/Stable_marriage_problem][The Stable Marriage Problem]]
+*** [[http://en.wikipedia.org/wiki/Stable_marriage_problem][The Stable Marriage Problem]]
 
 Suppose we have $N$ men and $N$ women. Every man/woman has an ordering of the other gender by which partner they prefer to which. A solution (a one-to-one pairing of each man to woman) is "stable" if there is no man-woman pair that mutually prefer each other to their present partner. Does a stable solution exist?
 
@@ -52,12 +54,12 @@ It appears like it didn't matter which gender asked, just that we only had one g
 
 A large number of variations on the stable marriage problem have been considered, including ones analyzing incomplete lists, tied preferences, and what amounts to homosexual and polyamorous cases (though these are discussed as the roommate problem, etc). Iwama and Miyazaki have a nice review paper: [[http://140.123.102.14:8080/reportSys/file/paper/scfu/scfu_21_paper.pdf][A Survey of the Stable Marriage Problem and Its Variants]] on these.
 
-** Other Game Theory in Romance
+*** Other Game Theory in Romance
 
 + [[http://www.changesurfer.com/Acad/Monogamy/Mono.html][Monogamy as a Prisoners Dilemma: Non-Monogamy as a Collective Action Problem]] -- note that I've only skimmed this so far and marked it down as something to look at.
 
 
-* Anti-Patterns
+** Anti-Patterns
 
 People do all sorts of really troubling things in relationships. If we note them, we can make sure to avoid them in ourselves and potential partners.
 
@@ -71,7 +73,7 @@ People do all sorts of really troubling things in relationships. If we note them
 
 
 
-* Rambles
+** Rambles
 
 + What is a good romantic partner? Triggers romantic attraction? Makes you happy? Makes you feel peaceful? Drives your growth/productivity? Good reproductive partner (genetics & child rearing skills)? You don't fight? Sex? Social status? A weighted combination of the above? It varies over time? Almost certainly, this varies between people.
 
@@ -128,13 +130,13 @@ People do all sorts of really troubling things in relationships. If we note them
   + "It is a fact of considerable interest that among married couples the degree of assortative mating for IQ is higher than for any other trait, physical or mental. Studies of assortative mating for IQ show correlations between spouses ranging between + .40 to + .60, with a mean of + .50 (Jencks, 1972, p. 272). (This is about the same as the correlation between brothers and sisters.) A correlation of .50 is equivalent to an average absolute difference between spouses (or siblings) of 12 IQ points. Assuming that the IQ tests have a reliability of .95, the correlation between spouses after correction for attenuation becomes +.53." (Jensen, "Bias in Mental Testing")
  
 
-* Romance Space & Clusters
+** Romance Space & Clusters
 
 There seems to be some really interesting mathematical structures on romance space. In particular, it has a vaguely metric like structure, where similar groups are often more attracted to each other.
 
 (I'll leave it at this for now, until I have time to write out something more coherent, but I think there's some really deep points here.)
 
-* Are Relationships a Good Idea? 
+** Are Relationships a Good Idea? 
 
 That relationships are a positive thing and an ultimate part of positive outcomes in life is quite broadly accepted, save a few edge cases like priesthood. This isn't at all surprising. Romantic relationships are essential to evolutionary success, and evolution has many tricks to keep us on this path.
 
@@ -156,7 +158,7 @@ But it isn't immediately clear to me that relationships are generally positive t
 
 + JK- referred me to this really interesting LessWrong post, [[http://lesswrong.com/lw/4su/how_to_be_happy/][How To Be Happy]], which reviews research into happiness: "Factors that don't correlate much with happiness include: age, gender, parenthood, intelligence, physical attractiveness, and money (as long as you're above the poverty line). Factors that correlate moderately with happiness include: health, social activity, and religiosity. Factors that correlate strongly with happiness include: genetics, love and relationship satisfaction, and work satisfaction."
 
-* Productivity And Romance
+** Productivity And Romance
 
 
 (A lot of this is the same content as "Are Relationships a Good Idea?" from a different perspective.)
@@ -190,7 +192,7 @@ So, the question is, can there be a positive relationship between romance and pr
   + Several things hint at increased productivity from having a partner, but nothing rigorous. So much is anecdotal/qualitative and samples are small.
   + (I should review further when not half-asleep)
 
-* Removing One's Self From The Dating Pool
+** Removing One's Self From The Dating Pool
 
 I often wish I could just rid myself of romantic attraction (and attachment, etc). I often wish this, despite the fact that I'm generally persuaded that a romantic relationship (with a the right partner!) would make me much happier, and wouldn't obviously be bad for my productivity (it might even be good for it!). This is because:
 
@@ -204,20 +206,20 @@ More simply, I have a drive, the lack of satisfaction of which is very detriment
 
 There are a few plausible options for achieving this, if I want to:
 
-** Meditation & Self Control 
+*** Meditation & Self Control 
 Being able to let go of emotions, remain detached, control what I'm focused on, etc... The most frustrating thing about romantic attraction has been an abnormally low ability to control my thoughts.
 
-** Environment Hacks
+*** Environment Hacks
 Multiple (redacted) men have described that interacting with women a lot (eg. by taking yoga) reduces romantic loneliness for them.
 
-** Drugs
+*** Drugs
 I generally really dislike the idea of something modifying my cognition, but if I could legally acquire something with sufficiently compelling properties, I might consider it.
 
 + Some of Fisher's papers suggest that seratonin is linked to the obsessive parts of romantic attraction and that SSRIs might help.
 + (redacted)- was greatly helped by medication after finding the right psychiatrist.
 + (redacted)- describes Adderall as reducing their need to have social interactions and increasing focus. On the other hand, Adderall often increases sex drive.
 
-** Lobotomy
+*** Lobotomy
 It seems plausible that something could be done, and if I reviewed the literature I could probably come up with good guesses as to what. But it seems very very high risk and rather permanent...
 (I'm not seriously considering this, but it is here for comprehensivness.)
 
@@ -226,51 +228,51 @@ It seems plausible that something could be done, and if I reviewed the literatur
 
 
 
-* Signaling
+** Signaling
 
 One important and complicated issues around romantic relationships is the initial signaling that starts them. Expressing romantic interest in someone overtly is a costly action: it can hurt your relationship with them, with other people, make them feel uncomfortable, reduce your social standing, etc. Meanwhile, a positive outcome is fairly unlikely. So, people don't typically directly express romantic interest. Instead there's typically an exchange of increasingly stronger signals between them ("flirting"). This interplay reduces the risk of both parties, but is problematic if you can't read social queues or social skills aren't your strong point.
 
-** General musings
+*** General musings
 
-*** Expressing interest as a prisoners dilemma
+**** Expressing interest as a prisoners dilemma
 Revealing romantic interest is a prisoners dilemma. Both reveal is awesome, neither reveals is sad, one reveals and the other doesn't really sucks.
 
-*** Men express interest
+**** Men express interest
 Initiating this sort of interaction typically falls to men, I think. Especially when it comes to escalating signals. This seems really unfair.
 
-*** Disinterest is a signal
+**** Disinterest is a signal
 Disinterest and business are a signal for quality. Conversely, desperation is a really bad signal: seeming desperate for friends or partners is severely unattractive. Use common sense.
 
 + This really, really complicates things.
 + This seems on net negative.
 + JO- commented that some girls he knew would have rules like not accepting dates for Saturday any later than Wednesday, in order to emulate scarcity.
 
-*** Signals are subtle
+**** Signals are subtle
 It would be really nice if the expected behavior could be less subtle. If we made the signal less costly, less personal, and less subtle, that would be a very positive thing.
 + Technology is a really big opportunity here.
 
-*** Skepticism of body-language signals
+**** Skepticism of body-language signals
 A lot of people proscribe body language, from the overt like hugging, smiling, and eye contact to much more subtle things, as signals to look for in assessing where someone is romantically attracted to you.
 
 However, H- mentioned a study which had people watch other interact and predict whether one part was attracted to the other. They did very poorly in their predictions. (I can't find this study.) This aligns with my experience that these things are very subtle, easy to mistake, and perhaps simply not reliable at all.
-*** Time is a reliable signal
+**** Time is a reliable signal
 Reading social signals is hard in general, but it's easy to see if someone is choosing to spend time with you, which is a very strong positive signal, though not differentiated to romance. If you care about both friendship and romance, which one of these it is often doesn't matter.
 
-** People's perspectives 
+*** People's perspectives 
 
 + H- views this as an important skill (one of many) that one develops on low value relationships so that one is ready for a potentially very good relationship.
 + R- in blog describes a bunch of attempts at signaling that I would never have noticed. (How many people have tried to flirt with me and I didn't notice it?)
 + D- thinks one can substantially ignore the other persons signaling if they can't understand it, and focus on sending their own signals.
   + I supposes this only works when only one party is socially unskilled.
 
-** Things you can do to avoid subtle signals
+*** Things you can do to avoid subtle signals
 If you aren't very socially skilled and bad on picking up on queues, what can you do to avoid subtle signals?
 + Write about this publicly, so that they'll know they need to be less subtle?
 + Provide public information (an OkCupid profile?) so that they can build a better model of you and be more confident that you are of interest to them and that they'd be of interest to you?
   + The trick is that you may not want to make all that information publicly associated with you. One half-measure is to instead put it on social networks with limited visibility. People socially close to you can see it, but other can't. It feels like it may be the best compromise you can get.
 + Make relationship status public (eg. for me on 05/30/2013, single, has never dated) so that potential partner doesn't have to worry about whether there might be an existing relationship?
 
-** One deep concern I have about attempts to signal is making the person I am trying to express interest in uncomfortable or acting in a way that is hurtful to them. 
+*** One deep concern I have about attempts to signal is making the person I am trying to express interest in uncomfortable or acting in a way that is hurtful to them. 
 
 This is especially true in hacking/CS/math/physics communities that suffer from sexism and gender-biases if you're a heterosexual male. And especially hacklab where I am in a position of leadership (albeit very minor). The damage that could be done (awesome female is creeped out and leaves the community) seems to outweigh my interest.
 
@@ -281,15 +283,15 @@ There's really 2 separate problems:
 
 On the other hand, my concern in this regard sometimes feels paralyzing. And it may be a rationalization of me just feeling anxious about social stuff.
 
-*** Asides:
+**** Asides:
 
 + H-, D-, E-, & LN- think I'm not at risk of doing this and should worry less.
 
 + Subtle back and forth signaling can really help here.
 
 
-** Responses:
-*** LN-'s answer
+*** Responses:
+**** LN-'s answer
 "If you call me every day and tell me you love me, it's creepy -- unless I want it, in which case it's heart-melting. If you serenade my window at night, it's creepy -- unless I want it, in which case it's amazing. Romantic behavior is creepy unless you want it." -- LN-
 
 Summary: The key to not making people uncomfortable in expressing romantic interest is knowing if they want you to, and only expressing interest if they do. One should be guided by trying to do what they believe the other part wants.
@@ -297,7 +299,7 @@ Summary: The key to not making people uncomfortable in expressing romantic inter
 Queues indicating romantic interest: Physical contact, eye contact, lots of smiling, ending up spending lots of time alone together, talking on the phone a lot, chatting/talking late into the night (attraction reducing your need for sleep doesn't just apply to you!)... Note that a lot of these require you to have a baseline for how the person behaves -- some people just smile a lot or make physical contact a lot!
 
 If the person seems to be attracted to you, the next step is generally asking them out on a date. Except it is seldom explicitly a date. A common form this takes is "would you like to get coffee sometime?" -- this could easily not be a date, and indeed this is often not a date, but one hint that it might be is that no purpose for meeting is given.
-*** H-&Da-'s response
+**** H-&Da-'s response
 
 There are risky and non-risky ways to express romantic interest. If you just ask someone out for coffee, there is essentially no risk of making them uncomfortable, if you only ask once.
 
@@ -305,7 +307,7 @@ There are more "romantic" approaches, but they are riskier and can make someone 
 
 There is reason to be really skeptical of a lot of the standard "signals" people suggest looking for. Detecting romantic interest is actually really hard. The only really reliable signal is if someone choses to spend time with you.
 
-*** E-'s response
+**** E-'s response
 
 E- suggested the following potential ways people might be made uncomfortable by one's romatnic interest:
 
@@ -326,7 +328,7 @@ E- suggested the following queues for someone being semi-interested in you:
 
 
 
-* Coping with Gender-Skew
+** Coping with Gender-Skew
 
 What do you do if your romance cluster is gender skewed? What if you're in the overpopulated gender. (For example, men in math/CS.) For discussion, lets say there are lots more men than women. (Obviously, you can reverse this.) If you're gay, you're fine. If you aren't...
 
@@ -343,17 +345,17 @@ What can one do to increase their chances? (It seems ethical to try to improve y
 + Have other advantages as a partner (if preference is really at the noise level)
 
 
-* Altruistic Dating
+** Altruistic Dating
 
 So far, we've mostly considered strategies for maximizing ones romantic success/happiness within ethical constraints (with varying degrees of rigor). But often that's not a very healthy way to look at things. For lots of things, it's useful to think about strategies that maximally help everyone else -- because we care about other people, because it can lead to new solutions, and because in some social circumstances (dating probably isn't one) altruistic behavior is rewarded. There are several interesting, specific problems, but first some general thoughts are in order:
 
-** Free/Efficient Market Perspective
+*** Free/Efficient Market Perspective
 
 I'm sure many economists would tell me that I should optimize for my interests try to be the best partner I can be, and do nothing further. The "market" can analyze and find solutions I can't. 
 
 (It's also kind of presumptuous and patronizing to act for someone elses well being, etc.)
 
-** Optimizing for the benefit of your (potential) partner
+*** Optimizing for the benefit of your (potential) partner
 
 + Give them as much information about you as possible to make a decision (in a non-creepy, non-ranting way). Possible mechanisms might be a public OkCupid profile, or being really clearly willing to answer (almost) any question.
   + Counter argument: Providing a lot more information and being honest about flaws may just lead to you being rejected, even when you were the best person in the candidate pool, hurting the person you were honest about. People aren't rational, and things like romantic attraction are not conscious decision.
