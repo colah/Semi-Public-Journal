@@ -184,6 +184,8 @@ So, the question is, can there be a positive relationship between romance and pr
   + A small body of literature has built up exploring this topic. Terms to search for are: dual careers, academic couples, intimate collaborators, intimate romantic partners, etc.
   + *Knowledge Production, Publication Productivity, and Intimate Academic Partnership* (Greamer, 1999) explores the effects of romantic partners as collaborators on productivity. It's a very small and limited sample in a few ways (eg. older generation). There's high variance in the impact of these relationships on productivity. There's also a striking pattern of partners feeling unable to heavily collaborate because of the expectations of the academic community. Informal feedback and honest criticism on work from partners may be important. One pair of psychologists seem to have a story of very deep and extremely important collaboration where they mutually developed ideas over years of conversation. 
   + *Love in the lab: Women scientists and engineers married to or partnered with other scientists and engineers* (Blaser) begins with a nice literature review and lots of references. One interesting quote: "Approximately 70% of female physicists are married to other scientists and 80% of female mathematicians are married to other mathematicians (Gibbons 1992)." (I haven't been able to read Gibbons yet). 
+    + One interpretation of this is that, in the absense of supply constraints on partners (which exist for men but not for women), most scientists and mathematicians have a a *very* strong preference for their peers. This validates my understanding of my own feelings and aligns with the comments of many people I've spoke to.
+    + Another explanation could be that people meet their colleagues more than people of other professions.  But then we'd expect similar patterns in other groups, which we don't observe.
   + Seems like early research found negative correlations for male productivity with having an academic partner. It is speculated that this is because of a more egalitarian distribution of house work. It may be better modernly? (Also, I'd personally value that and would do that regarless of partner, so it doesn't matter much.)
   + Several things hint at increased productivity from having a partner, but nothing rigorous. So much is anecdotal/qualitative and samples are small.
   + (I should review further when not half-asleep)
@@ -276,6 +278,8 @@ There's really 2 separate problems:
 
 1. Making someone uncomfortable/unsafe. This connects directly to the [[http://kateharding.net/2009/10/08/guest-blogger-starling-schrodinger%E2%80%99s-rapist-or-a-guy%E2%80%99s-guide-to-approaching-strange-women-without-being-maced/]["schrodinger's rapist"]] issue.
 2. Re-enforcing or triggering lots of sexist nonsense. (eg. That women are being respected in a community because of sexual/romantic appeal.)
+
+On the other hand, my concern in this regard sometimes feels paralyzing. And it may be a rationalization of me just feeling anxious about social stuff.
 
 *** Asides:
 
