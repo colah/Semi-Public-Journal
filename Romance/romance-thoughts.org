@@ -267,6 +267,7 @@ Reading social signals is hard in general, but it's easy to see if someone is ch
 If you aren't very socially skilled and bad on picking up on queues, what can you do to avoid subtle signals?
 + Write about this publicly, so that they'll know they need to be less subtle?
 + Provide public information (an OkCupid profile?) so that they can build a better model of you and be more confident that you are of interest to them and that they'd be of interest to you?
+  + The trick is that you may not want to make all that information publicly associated with you. One half-measure is to instead put it on social networks with limited visibility. People socially close to you can see it, but other can't. It feels like it may be the best compromise you can get.
 + Make relationship status public (eg. for me on 05/30/2013, single, has never dated) so that potential partner doesn't have to worry about whether there might be an existing relationship?
 
 ** One deep concern I have about attempts to signal is making the person I am trying to express interest in uncomfortable or acting in a way that is hurtful to them. 
