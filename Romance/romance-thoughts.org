@@ -120,6 +120,15 @@ People do all sorts of really troubling things in relationships. If we note them
   + It seems like having an early conversation about this is a good idea in a relationship. Perhaps even independently writing out what one expects in the relationship.
 
 + Is having similar sex drives important?
+  + Probably the wrong way to look at this. It's more like intersection of tolerance intervals, I feel like.
+
++ JS- referred me to some really interesting points on IQ and romance.
+  + Stats by IQ, from Arthur Jensen, "The g factor the science of mental ability":
+    + Divorce within five years of marriage: 125+: 12%, 110-125: 17%, 90-110: 21%, 75-90: 26%, <75: 32%
+    + Ever Had Illegitimate Child: 125+: 2%, 110-125: 4%, 90-110: 8%, 75-90: 17%, <75: 32%
+      + But perhaps that reflects more on use of protection than fidelity?
+  + "It is a fact of considerable interest that among married couples the degree of assortative mating for IQ is higher than for any other trait, physical or mental. Studies of assortative mating for IQ show correlations between spouses ranging between + .40 to + .60, with a mean of + .50 (Jencks, 1972, p. 272). (This is about the same as the correlation between brothers and sisters.) A correlation of .50 is equivalent to an average absolute difference between spouses (or siblings) of 12 IQ points. Assuming that the IQ tests have a reliability of .95, the correlation between spouses after correction for attenuation becomes +.53." (Jensen, "Bias in Mental Testing")
+ 
 
 * Romance Space & Clusters
 
