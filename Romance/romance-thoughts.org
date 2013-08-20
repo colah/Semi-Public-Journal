@@ -1,6 +1,9 @@
 *Note: These are personal thoughts on a very personal and sensitive issue. Please look at [[https://github.com/colah/Semi-Public-Journal/blob/master/README.md][the readme]].*
 
 * Game Theory of Romance
+
+(I don't think there's much value in my game theory analysis of romance but it makes me feel more comfortable about the topic, as it's math. It's a nice place to dip a toe in the water to start. And it's something kind of productive to do -- I learn neat stats and control theory by reading the relevant papers -- when I'm upset about this stuff.)
+
 ** Optimal Dating Strategies (variations of the Secretary Problem)
 
 A few mathematicians have considered optimal strategies for dating. Extremely simplified models of dating have optimal strategies, but things explode as one introduces even moderately realistic circumstances. Further, I have serious concerns about the utility functions these are optimal strategies under.
