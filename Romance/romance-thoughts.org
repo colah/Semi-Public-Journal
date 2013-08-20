@@ -105,7 +105,7 @@ People do all sorts of really troubling things in relationships. If we note them
   + I think that, once you are open-minded to the idea of polyamory, your intuition for whether you want to be in such a type of relationship is relatively strong evidence as to whether you would actually enjoy being in one and probably more reliable that concious arguments. Romance is tied to lots of really low level things in your brain, and your brains reaction to imagining these circumstances strikes me as quite reliable, where as I am worried about the effectivness of concious arugment of these issues.
     + In Khaneman's terminology, perhaps this is an issue better handled by "system 1" reasoning. 
 
-  + I personally don't find the idea very appealing, and pretty certain that it isn't for me, despite thinking they can be ethical. I am extremely skeptical of people who try to convience me that deep down I want to be poly or such.
+  + I personally don't find the idea very appealing, and pretty certain that it isn't for me, despite thinking they can be ethical. I am extremely skeptical of people who try to convince me that deep down I want to be poly or such.
 
 
 
@@ -147,7 +147,7 @@ But it isn't immediately clear to me that relationships are generally positive t
 
 + Many friends and people that I respect tell me of how greatly relationships improved their quality of life. Others describe it not having much impact after a few months of feeling amazing. A small number are extremely negative about it. But I don't think any of them are a terribly objective source.
 
-+ JK- referred me to this really interesting LessWrong post, [How To Be Happy](http://lesswrong.com/lw/4su/how_to_be_happy/), which reviews research into happiness: "Factors that don't correlate much with happiness include: age, gender, parenthood, intelligence, physical attractiveness, and money (as long as you're above the poverty line). Factors that correlate moderately with happiness include: health, social activity, and religiosity. Factors that correlate strongly with happiness include: genetics, love and relationship satisfaction, and work satisfaction."
++ JK- referred me to this really interesting LessWrong post, [[http://lesswrong.com/lw/4su/how_to_be_happy/][How To Be Happy]], which reviews research into happiness: "Factors that don't correlate much with happiness include: age, gender, parenthood, intelligence, physical attractiveness, and money (as long as you're above the poverty line). Factors that correlate moderately with happiness include: health, social activity, and religiosity. Factors that correlate strongly with happiness include: genetics, love and relationship satisfaction, and work satisfaction."
 
 * Productivity And Romance
 
@@ -167,6 +167,8 @@ So, the question is, can there be a positive relationship between romance and pr
 
 + During romantic attraction, people change themselves to be more attractive to their partner, including changes to physical appearance, beliefs, ideals, etc. If attributes that make you attractive include things like ethics or intellectual curiosity...
 
++ C.S. Lewis, in the [[http://www.lewissociety.org/innerring.php][Inner Ring]], discusses the insidious motivation to be part of exclusive groups. M- generalizes from this to the importance of how extremely influential the people who's opinion you care about are on your beliefs, values, and motivation. This agrees with my experience... And who could be more influential in this way than your partner? Again, this cuts both ways and could be very positive or negative.
+
 + Could romance allow deeper collaboration through intellectual intimacy -- less filtering, more honesty about feelings?
 
 + There's a pretty long tradition of romantic partners as scientific collaborators.
@@ -174,9 +176,9 @@ So, the question is, can there be a positive relationship between romance and pr
   + Seems quite wide spread. Asking one friend in Academia, then rattled off a list of a dozen or so pairs with little thought.
   + A small body of literature has built up exploring this topic. Terms to search for are: dual careers, academic couples, intimate collaborators, intimate romantic partners, etc.
   + *Knowledge Production, Publication Productivity, and Intimate Academic Partnership* (Greamer, 1999) explores the effects of romantic partners as collaborators on productivity. It's a very small and limited sample in a few ways (eg. older generation). There's high variance in the impact of these relationships on productivity. There's also a striking pattern of partners feeling unable to heavily collaborate because of the expectations of the academic community. Informal feedback and honest criticism on work from partners may be important. One pair of psychologists seem to have a story of very deep and extremely important collaboration where they mutually developed ideas over years of conversation. 
-  + *Love in the lab: Women scientists and engineers married to or partnered with other scientists and engineers* (Blaser) begins with a nice literature review and lots of references. One interesting quote: "Approximately
-70% of female physicists are married to other scientists and 80% of female mathematicians are married to other mathematicians (Gibbons 1992)." (I haven't been able to read Gibbons yet). 
+  + *Love in the lab: Women scientists and engineers married to or partnered with other scientists and engineers* (Blaser) begins with a nice literature review and lots of references. One interesting quote: "Approximately 70% of female physicists are married to other scientists and 80% of female mathematicians are married to other mathematicians (Gibbons 1992)." (I haven't been able to read Gibbons yet). 
   + Seems like early research found negative correlations for male productivity with having an academic partner. It is speculated that this is because of a more egalitarian distribution of house work. It may be better modernly? (Also, I'd personally value that and would do that regarless of partner, so it doesn't matter much.)
+  + Several things hint at increased productivity from having a partner, but nothing rigorous. So much is anecdotal/qualitative and samples are small.
   + (I should review further when not half-asleep)
 
 * Removing One's Self From The Dating Pool
@@ -188,6 +190,8 @@ I often wish I could just rid myself of romantic attraction (and attachment, etc
 + Removing myself would heal, slightly, some of the asymmetry.
 
 + Pursuing romance takes a lot of energy and involves high emotional risk.
+
+More simply, I have a drive, the lack of satisfaction of which is very detrimental to my quality of life. I wish to either satisfy it or extinguish it.
 
 There are a few plausible options for achieving this, if I want to:
 
