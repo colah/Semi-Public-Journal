@@ -37,7 +37,8 @@ The fact that, in reality, the utility of an outcome isn't solely determined by 
 
 + Even if the quality of a relationship was determined by the two people in it, that may not overshadow different costs of a strategy. It appears that there is a great deal of potential to hurt your partners in this matter if one isn't careful. Additionally, one can severely hurt themselves, and entering a relationship has a significant energy investment.
 
-+ Intuitively, I feel like there's something very special about the first relationship. That if I could make it be really awesome and work out, that would be best. That I might be less able to form deep relationships after it. Everyone I respect tells me this is ridiculous. H- proposed as a test that I should try and find an expert who will argue for this position, and if I can't that is strong evidence against it -- I haven't tried yet, but the fact that I don't have a very high confidence in succeeding doesn't bode well for this. I don't really intellectually believe this to be true, but I feel it very strongly emotionally.
++ Intuitively, I feel like there's something very special about the first relationship. That if I could make it be really awesome and work out, that would be best. That I might be less able to form deep relationships after it. Everyone I respect tells me this is ridiculous. H- proposed as a test that I should try and find an expert who will argue for this position, and if I can't that is strong evidence against it -- I haven't tried yet, but the fact that I don't have a very high confidence in succeeding doesn't bode well for this. I don't really intellectually believe this to be true, but I feel it very strongly emotionally. D- actually agrees that not having been in a relationship before means I'll be more strongly attached to my first partner, but that this may not be a positive thing (a greater risk of being hurt).
+
 *** [[http://en.wikipedia.org/wiki/Multi-armed_bandit][The Multi-Armed Bandit problem]]
 
 The mult-armed bandits are slot machines, with different pay outs which you can only learn by trying them. There's a tradeoff between exploring the possibilities and exploiting the best option you find. The problem generalizes to lots of scenarios where you are distributing resources between possibilities. For example, if you have multiple romantic candidates of unknown quality...
@@ -105,9 +106,18 @@ People do all sorts of really troubling things in relationships. If we note them
   + I think that, once you are open-minded to the idea of polyamory, your intuition for whether you want to be in such a type of relationship is relatively strong evidence as to whether you would actually enjoy being in one and probably more reliable that concious arguments. Romance is tied to lots of really low level things in your brain, and your brains reaction to imagining these circumstances strikes me as quite reliable, where as I am worried about the effectivness of concious arugment of these issues.
     + In Khaneman's terminology, perhaps this is an issue better handled by "system 1" reasoning. 
 
-  + I personally don't find the idea very appealing, and pretty certain that it isn't for me, despite thinking they can be ethical. I am extremely skeptical of people who try to convince me that deep down I want to be poly or such.
+  + I personally don't find the idea appealing, and pretty certain that it isn't for me, despite thinking they can be ethical. I am extremely skeptical of people who try to convince me that deep down I want to be poly or such.
 
+  + D- has observed about 20 people who say very similar things to what I say about monogamy/polyamory at the age of 20, and about 50% of them ended up being poly by 25/30. The pattern was generally that they were super attached to a relationship, it ended, they were depressed for a while, and became poly.
 
+  + LN- observed "most people don't want to be monogamous, they want their partner to be monogamous." I don't think that's true in my case. I'm less uncomfortable with the idea of only having one partner and them having multiple partners to full polyamory. (Though I'd also greatly prefer for my partner to not have other partners.)
+    + LN- and E- observed that many people believe that they want to be monogamous, eg. when they get married, but end up wanting something else later.
+    + D- thinks this puts me, while superficially in an extremely different group that people in polyamory, in some deep sense in a very similar group. In particular, there's a similar line of thinking that goes "I care about my partner's happiness more than mine and chose (without any expectation of reciprocation) to not constrain my partner's actions in any way." This is then usually reciprocated, and can lead to a relationship that is formally not monogamous (even if it is in practice).
+   + The form of polyamory I am have observed that I am least uncomfortable with is SDCJL where it is a fully-connected graph.
+   + I think what this drives at is that the thing that matters most deeply to me is something like the depth of my relationship with my partner and the closeness of it.
+
++ D- thinks the most important thing for relationship success is lots of random compatibility things like when you go to sleep, whether you like to snuggle, how easily you talk.
+  + A lot of this is things one can change and work on to be more compatible with a given partner. Though Er- thinks that leads to resentment.
 
 + Non socially normative relationships present some interesting difficulties.
 
