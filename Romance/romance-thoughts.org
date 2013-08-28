@@ -112,9 +112,6 @@ People do all sorts of really troubling things in relationships. If we note them
 
   + LN- observed "most people don't want to be monogamous, they want their partner to be monogamous." I don't think that's true in my case. I'm less uncomfortable with the idea of only having one partner and them having multiple partners to full polyamory. (Though I'd also greatly prefer for my partner to not have other partners.)
     + LN- and E- observed that many people believe that they want to be monogamous, eg. when they get married, but end up wanting something else later.
-    + D- thinks this puts me, while superficially in an extremely different group that people in polyamory, in some deep sense in a very similar group. In particular, there's a similar line of thinking that goes "I care about my partner's happiness more than mine and chose (without any expectation of reciprocation) to not constrain my partner's actions in any way." This is then usually reciprocated, and can lead to a relationship that is formally not monogamous (even if it is in practice).
-   + The form of polyamory I am have observed that I am least uncomfortable with is SDCJL where it is a fully-connected graph.
-   + I think what this drives at is that the thing that matters most deeply to me is something like the depth of my relationship with my partner and the closeness of it.
 
 + D- thinks the most important thing for relationship success is lots of random compatibility things like when you go to sleep, whether you like to snuggle, how easily you talk.
   + A lot of this is things one can change and work on to be more compatible with a given partner. Though Er- thinks that leads to resentment.
@@ -138,7 +135,8 @@ People do all sorts of really troubling things in relationships. If we note them
     + Ever Had Illegitimate Child: 125+: 2%, 110-125: 4%, 90-110: 8%, 75-90: 17%, <75: 32%
       + But perhaps that reflects more on use of protection than fidelity?
   + "It is a fact of considerable interest that among married couples the degree of assortative mating for IQ is higher than for any other trait, physical or mental. Studies of assortative mating for IQ show correlations between spouses ranging between + .40 to + .60, with a mean of + .50 (Jencks, 1972, p. 272). (This is about the same as the correlation between brothers and sisters.) A correlation of .50 is equivalent to an average absolute difference between spouses (or siblings) of 12 IQ points. Assuming that the IQ tests have a reliability of .95, the correlation between spouses after correction for attenuation becomes +.53." (Jensen, "Bias in Mental Testing")
- 
+
++ My experience of romantic attraction seems a bit unusual. I have not experienced it immediatly after meeting someone (basing what I consider to be romantic attraction off of Fisher's criterea), but rather after knowing someone for a while and relatively seldom. Sometimes when I meet someone, I'm really excited because they're an interesting and awesome person, and, now since I've realized how much I'd like to find a partner, I may wonder if they might be a potential partner for me... But it doesn't have the same feelings as actual attraction.
 
 ** Romance Space & Clusters
 
@@ -366,6 +364,10 @@ I'm sure many economists would tell me that I should optimize for my interests t
 (It's also kind of presumptuous and patronizing to act for someone elses well being, etc.)
 
 *** Optimizing for the benefit of your (potential) partner
+
+(In some long-term sense, I feel kind of compelled, beyond my normal feelings of wanting to be nice to people, to try to optimize for the benefit of a potential partner. Consider a branching path where in one case they end up with you, but could have had a better partner if you'd encouraged them to consider options other than you, or introduced them to someone? Now you care about their well being much more than your own and you have to live with that...)
+
+Strategies:
 
 + Give them as much information about you as possible to make a decision (in a non-creepy, non-ranting way). Possible mechanisms might be a public OkCupid profile, or being really clearly willing to answer (almost) any question.
   + Counter argument: Providing a lot more information and being honest about flaws may just lead to you being rejected, even when you were the best person in the candidate pool, hurting the person you were honest about. People aren't rational, and things like romantic attraction are not conscious decision.
