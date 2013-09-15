@@ -136,6 +136,7 @@ People do all sorts of really troubling things in relationships. If we note them
       + But perhaps that reflects more on use of protection than fidelity?
   + "It is a fact of considerable interest that among married couples the degree of assortative mating for IQ is higher than for any other trait, physical or mental. Studies of assortative mating for IQ show correlations between spouses ranging between + .40 to + .60, with a mean of + .50 (Jencks, 1972, p. 272). (This is about the same as the correlation between brothers and sisters.) A correlation of .50 is equivalent to an average absolute difference between spouses (or siblings) of 12 IQ points. Assuming that the IQ tests have a reliability of .95, the correlation between spouses after correction for attenuation becomes +.53." (Jensen, "Bias in Mental Testing")
 
+
 + My experience of romantic attraction seems a bit unusual. I have not experienced it immediatly after meeting someone (basing what I consider to be romantic attraction off of Fisher's criterea), but rather after knowing someone for a while and relatively seldom. Sometimes when I meet someone, I'm really excited because they're an interesting and awesome person, and, now since I've realized how much I'd like to find a partner, I may wonder if they might be a potential partner for me... But it doesn't have the same feelings as actual attraction.
 
 ** Romance Space & Clusters
@@ -199,6 +200,56 @@ So, the question is, can there be a positive relationship between romance and pr
   + Seems like early research found negative correlations for male productivity with having an academic partner. It is speculated that this is because of a more egalitarian distribution of house work. It may be better modernly? (Also, I'd personally value that and would do that regarless of partner, so it doesn't matter much.)
   + Several things hint at increased productivity from having a partner, but nothing rigorous. So much is anecdotal/qualitative and samples are small.
   + (I should review further when not half-asleep)
+
+** Match and Effort
+*** How much of the quality of a relationship is how well matched the pair is? How much is the effort the pair puts in?
+
+My suspicion is that this is sort of like a "nature vs nurture" question. The answer seems very likely to be that both matter a lot! In particular, it seems intuitive to m that in the case of an utterly horrible match would be very difficult to improve with effort, and, similarly, that a couple putting zero effort into making the relationship work isn't going to be saved by being well matched.
+
+My present internal model is to think of relationship quality as $log(match+1)*log(effort + 1)$ where match and effort are symmetric match and effort, the minimum of how well A is matched for B and B is matched for A, or the minimum of the effort A puts in and the effort B puts in. This has a number of desirable properties:
+
+1. Both effort and match matter. Neither is independently sufficient. If match quality is zero, no amount of effort can save things
+2. It is sublinear to match and effort. Intuitively, going from spending no time with your partner to spending time an hour a day with your partner should have a much greater effect than going from spending 5 hours a day instead of 4. Or being with the best matched partner out of 10 people instead of a random person should have a much bigger impact than the best partner out of 20 instead of 10.
+3. Poor relationships are bad (negative) and worse than not being in a relationship at all.
+4. The relationship needs to be symmetric; what matters is the amount of effort the lesser side puts in. (This is probably a bit exagerated, but roughly true.)
+
+I don't have any evidence back this up, but it seems like a natural heuristic.
+
+(Relationship quality is undefined here, and I expect it to vary a lot according to the different things people want in relationships. See my notes on "what is a good partner?".)
+
+*** What form does this effort take? How much work is it, actually?
+
+I see three forms of effort in relationships:
+
+**** Spending time with your partner
+
+This intrinsicly requires a bunch of time, but how that time is spent can vary a lot. Most couples seem to spend it watching TV and things like that, but it seems like there's no reason it couldn't be a lot more constructive.
+
+**** Lifestyle negotiation
+
+A consequence of living closely with someone is that there's lots of ways your actions effect them and vice versa. Often, there will be conflicting desires.
+
+In a lot of cases, a bit of thought can probably come up with a solution that is mutually satisfying. For example, if one partner doesn't like dirty dishes in the kitchen, the other hates washing them, getting a dishwasher could resolve things without requiring either to change.
+
+That won't always be possible. It seems obvious to me that for most trivial things like this, they're vastly overwhelmed by the value of the relationship, and so it's really irrational to not just compromise. I'm sure that's easier said from an outside perspective. One issue a number of people have told me about is feeling bitter about the changes they make. I suspect that reminding yourself that the other party has compromised as well and of the importance of the relationship is very important. (And, of course, that the compromises be fair.)
+
+**** Gifts and rituals
+
+I think a lot of relationships involve social obligations to buy gifts for certain events that take energy and money. Buy a valentine's gift! (Or the other person will be angry at you.)
+
+I find socially obligated gifts really distasteful in general though and am somewhat biased.
+
+*** When looking for a good match is harmful
+**** Too fine a filter leaves the empty set
+
+If you search for too good a match, you may not find anyone who meets your criterea. (Or if you are seeking a match that is asymetric, you may find people but they may not be interested in you).
+
+This isn't necessarily a bad thing -- there's some threshold below witch it isn't worth being in a relationship, I think. But it's also certainly possible to be overlooking really good matches in search of too high a goal.
+
+**** In a relationship
+Once you're in a relationship, some may wonder whether they could be in a relationship with someone better. In a bad relationship, this may be useful, but in a good one this is clearly very harmful!
+
+DS- referred me to Tim Minchin's song [[https://www.youtube.com/watch?v=IeZMIgheZro][If I Didn't Have You]] on the subject.
 
 ** Removing One's Self From The Dating Pool
 
@@ -380,3 +431,47 @@ Strategies:
   + Ideas: Communication skills (non violent communication, active listening?), physical attractiveness (work out, optimize dressing, hair cut, etc), domestic skills (especially for males, since it signals that you won't push domestic work onto your partner), cluster specific (eg. math skills).
   + Side benefit: Someone is more likely to pick you, your relationship will likely be better. (If you're seeking a long term relationship like me, then that equates to your relationship having a better life expectancy.)
 
+*** Seeking out the people you are a good match for
+
+Instead of looking for people who are a good match for you, try to find the people who you are a good match for. The two are generally correlated anyway, I think, excluding a few classes.
+
+This strategy has a lot of potential benefits for you as well, especially if you're on the large side of gender-skew. One nice property is that it's much easier to optimize for your interests and harder to do vice-versa, but it is actually the person who is least satisfied with the match who's interests dominate the success of the relationship.
+
+On the other hand, while trying to find and interact with the people you are a good match for is a good idea, I think that trying to account for it in choosing whether to enter a relationship with someone is probably a bad idea, outside of extreme cases. It's kind of paternalistic. The other party is much better qualified to judge for themselves.
+
+** Irrationality and Romance
+
+Most of the time when the word "rational" comes up in the same sentence as the word "romance", it is if for people to talk about how romance is irrational. Typically, because they don't understand what rationality is. Of course, there's nothing that makes romance especially irrational.
+
+But there are plenty of things that make us irrational *around* romance. Biases unique to one of the fundamental drives humanity experiences. (This shouldn't be remotely surprising, given its extremely important evolutionary role.)
+
+So, let's give some consideration to how to this.
+
+*** Bad Positive Feedback
+
+In "Broken Hearts: The Nature and Risks of Romantic Rejection" (2006), Fisher summarizes the research around romance, rejection and depression, with an eye to the issues teenagers may run into. A major theme is that there are feedback loops that, in response to adverse circumstances and barriers, *increase romantic attraction* and motivations.
+
+In particular, there is "frustration attraction", where romantic attraction increases in response to adversity and there is the "protest response" where one reacts to rejection by trying harder to win over the potential partner and even a willingness to engage in dangerous or humiliating behavior to this end.
+
+These are extremely dangerous!
+
+The dangers are twofold:
+
+(1) The world's population is huge. A sane response to someone not being interested in you is to look elsewhere, not invest more in them and hurt yourself.
+(2) Romance is somewhere where there is great potential for your actions to cause others to feel uncomfortable or unsafe. 'Persistence' greatly magnifies this. One of the essential components of not being creepy is immediatly backing off if someone isn't interested in you.
+
+*** Bad Negative Feedback
+
+Conversely, someone being too readily accepting of your attraction, seeming desperate, or too interested in you can make you much less interested in them. (Or at least, this is common wisdom and hinted at in a few things I've read -- I haven't actually looked for a source.) Of course, some people know this and try to feign a lack of interest, further complicating things.
+
+(This all feels very similar to stuff in sales. A high price is a signal of quality. Raising the price and then giving a discount makes people happy. Free software is assumed to be of low quality. People like to feel like they're getting the best deal or partner, and things being too easy makes them suspicious.)
+
+But, while not nearly as dangerous as the bad positive feedback loops, this can also be negative.
+
+Because someone being very openly interested in you or receptive to your interest isn't actually a very reliable negative signal. You have much stronger ones. In fact, in the metric space interpretation of romance, someone being very interested in you is probably a positive indicator of quality.
+
+*** Trivial costs
+
+The value of a good relationship seems clear to me to be enormous. Perhaps I'm naive, or perhaps I'm atypical. But I'm really puzzled by how people throw such (expected) value away for utterly trivial reasons.
+
+For example, it seems obvious that most people should, if rational, be willing to move for a high quality relationship. But that's actually a very high cost in comparison to what I'm referring to. It's more that people seem to discard (potential) relationships for very minor reasons.
